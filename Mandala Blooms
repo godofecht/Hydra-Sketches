@@ -1,4 +1,4 @@
-Bloom Mandala # 1
+// Bloom Mandala # 1
 
 s0.initScreen()
 
@@ -47,7 +47,7 @@ src(s0)
 
 ////////////////////////////////////////////////////
 
-Bloom #2
+// Bloom #2
 
 
 s0.initScreen()
