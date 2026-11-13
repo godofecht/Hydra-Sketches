@@ -26,7 +26,7 @@ Caution: these sketches make fast-changing, high-contrast patterns. If flashing 
 
 **You will need:** a computer with a recent browser that supports WebGL (the system browsers use for 3D graphics). Hydra's own README says it works best in Chrome or Chromium. Phones and tablets cannot share their screen this way.
 
-1. Open one of the sketch files on GitHub, for example **Starfield**, and copy all of its text. For **Mandala Blooms**, see the note below.
+1. Open one of the sketch files on GitHub, for example **Starfield**, and copy all of its text.
 2. [Open the Hydra editor](https://hydra.ojack.xyz/). It starts with an example sketch already running.
 3. Click in the code, select all of it and delete it.
 4. Paste the sketch.
@@ -35,9 +35,7 @@ Caution: these sketches make fast-changing, high-contrast patterns. If flashing 
 
 You should see a kaleidoscope pattern built from the screen you chose, changing colour over time.
 
-**Mandala Blooms** holds two sketches, each under a plain text title ("Bloom Mandala # 1" and "Bloom #2"). Those title lines are not code and stop the sketch from running. Copy one sketch at a time, starting from the `s0.initScreen()` line below a title.
-
-**LSD Snow** also holds two versions, separated by a line of slashes. Running the whole file is fine: the second version replaces the first. To see the first version, paste only the part above the slashes.
+**LSD Snow** and **Mandala Blooms** each hold two versions, separated by a line of slashes. Running the whole file is fine, and the second version replaces the first. To see the first version, paste only the part above the slashes.
 
 ### Hydra editor keys
 
@@ -96,7 +94,7 @@ Hydra needs camera or screen capture permission when a sketch uses `s0.initScree
 
 ## Project status
 
-These are finished sketches with no tests. The repository description calls them audio-reactive, but none of the three reads audio input. They react to whatever is on the captured screen.
+These are finished sketches with no tests. None of the three reads audio input. They react to whatever is on the captured screen.
 
 ## Licence
 
